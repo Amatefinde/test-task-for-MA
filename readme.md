@@ -30,3 +30,8 @@ Hard. Написать парсер для сайта Метро (https://online
 poetry) <br>
 После чего необходимо запустить файл `main_graphql.py`. В директории появится или обновится файл output.xlsx с
 результатами парсинга.
+
+p.s. запарсил "раздел Конфеты и подарочные наборы" результат можете глянуть в файле output.xlsx
+![image](https://github.com/iRespectOnlyYen/test-task-for-MA/assets/90966720/cf902214-94c2-49cd-8981-32c7c6928066)
+
+
