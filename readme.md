@@ -19,7 +19,9 @@ Hard. Написать парсер для сайта Метро (https://online
     Быстренько накидал запрос, который тянет всю нужную информацию, а уже после - пару условий в питоне. 
     В итоге получился простой и быстрый скрипт.
 </p>
-![image](https://github.com/iRespectOnlyYen/test-task-for-MA/assets/90966720/5f66e59e-b879-4ea0-b629-34ab533e5474)
+
+![image](https://github.com/iRespectOnlyYen/test-task-for-MA/assets/90966720/7df8b497-9ca7-4d3b-8b1c-fa98721f3fd2)
+
 
 
 ### Запуск:
